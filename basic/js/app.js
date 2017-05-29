@@ -33,4 +33,4 @@ var humans = new Humans(); 	/* 휴먼스 컬렉션 생성 */
 var router = new Router();  /* 라우팅 생성      */
 
 Backbone.history.start();   /* 라우팅에 대한 진행기록 시작 */
-router.navigate('humans');  /* humans를 기점으로 라우팅을 시작 */
+// router.navigate('humans');  /* humans를 기점으로 라우팅을 시작 */
